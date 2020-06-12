@@ -1,5 +1,4 @@
 # Reordering-Table-Reconstruction-Model
-Reordering table reconstruction model for Chinese-Uyghur machine translation
 
 文章链接：http://www.joca.cn/CN/Y2018/V38/I5/1283
 发表期刊：《计算机应用》
